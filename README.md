@@ -111,19 +111,4 @@ Metrics used: **Precision, Recall, F1-Score, ROC-AUC**
 
 ---
 
-## How to Run
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-python fraud_detection.py
-```
-
----
-
-## Job Roles Targeted
-- Machine Learning Engineer
-- Fraud Analyst
-- Data Scientist
-
----
-
-*RISE Internship | Tamizan Skills | www.tamizhanskills.com*
+*RISE Internship | Tamizhan Skills*
